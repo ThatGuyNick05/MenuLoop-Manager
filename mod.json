@@ -1,0 +1,25 @@
+{
+    "geode": "3.4.0",
+    "gd": {
+        "win": "2.206"
+    },
+    "id": "oculations.menuloopmanager",
+    "name": "Menu Loop Manager",
+    "version": "v1.0.0",
+    "developer": "Oculations",
+    "description": "Get the ability to choose custom MenuLoop Themes in game!",
+    "repository": "https://github.com/ThatGuyNick05",
+    "resources": {
+        "sprites": [
+            "assets/button_logo.png"
+        ]
+    },
+    "links": {
+        "source": "https://github.com/ThatGuyNick05"
+    },
+    "tags": [
+        "interface",
+        "music",
+        "enhancement"
+    ]
+}
